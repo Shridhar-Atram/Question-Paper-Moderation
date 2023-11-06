@@ -1,0 +1,7 @@
+1. What is the difference between Python 2 and Python 3, and why is it important to migrate
+from Python 2 to Python 3?
+2. How can you handle excep(cid:415)ons in Python, and what is the purpose of the try-except block?
+3. What were the key factors that led to the outbreak of World War I, and how did it impact the
+world?
+4. How did the Industrial Revolu(cid:415)on transform society and the global economy during the 19th
+century?
