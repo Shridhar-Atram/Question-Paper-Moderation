@@ -1,7 +1,12 @@
-1. What is the difference between Python 2 and Python 3, and why is it important to migrate
-from Python 2 to Python 3?
-2. How can you handle excep(cid:415)ons in Python, and what is the purpose of the try-except block?
-3. What were the key factors that led to the outbreak of World War I, and how did it impact the
-world?
-4. How did the Industrial Revolu(cid:415)on transform society and the global economy during the 19th
+1. What is the difference between Python 2 and Python 3, and why is it important to migrate to
+Python 3?
+2. How can you create a Python func(cid:415)on that accepts a variable number of arguments or
+keyword arguments?
+3. What were the major causes and consequences of the American Civil War in the 19th
 century?
+4. How did the Industrial Revolu(cid:415)on in the 18th and 19th centuries transform economies,
+socie(cid:415)es, and technology in Western countries?
+5. Explain the Global Interpreter Lock (GIL) in Python. How does it impact mul(cid:415)-threading in
+Python programs?
+6. What is the purpose of virtual environments in Python, and how do you create and ac(cid:415)vate a
+virtual environment using the standard library tools?
